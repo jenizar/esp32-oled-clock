@@ -1,7 +1,7 @@
 # esp32-oled-clock
 ESP32 oled display clock with rtc ds3231
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/jenizar/esp32-oled-clock/blob/main/ds3231.jpg)
 
 materials:
 
