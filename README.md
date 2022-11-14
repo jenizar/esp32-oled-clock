@@ -3,6 +3,7 @@ ESP32 oled display clock with rtc ds3231
 
 ![alt text](https://github.com/jenizar/esp32-oled-clock/blob/main/ds3231.jpg)
 
+![alt text](https://github.com/jenizar/esp32-oled-clock/blob/main/esp32-ds3231-oled.PNG)
 materials:
 
 esp32 dev kit (30 pin), oled display 0.96 inch, rtc ds3231, breadboard, jumper cable
